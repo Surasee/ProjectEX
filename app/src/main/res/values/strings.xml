@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MapPrippree</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="headlines">Encabezados de</string>
+
+    <string name="hint_email">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">RegisMember / </string>
+    <string name="btn_forgetpass">ForgetPassword</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <array name="Tags">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_regis">RegisActivity</string>
+
+</resources>
